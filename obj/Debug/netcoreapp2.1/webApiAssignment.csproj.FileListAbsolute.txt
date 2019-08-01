@@ -1,0 +1,14 @@
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.csprojAssemblyReference.cache
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.RazorAssemblyInfo.cache
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.RazorAssemblyInfo.cs
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.AssemblyInfoInputs.cache
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.AssemblyInfo.cs
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\bin\Debug\netcoreapp2.1\webApiAssignment.deps.json
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\bin\Debug\netcoreapp2.1\webApiAssignment.runtimeconfig.json
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\bin\Debug\netcoreapp2.1\webApiAssignment.runtimeconfig.dev.json
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\bin\Debug\netcoreapp2.1\webApiAssignment.dll
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\bin\Debug\netcoreapp2.1\webApiAssignment.pdb
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.dll
+C:\Users\mritunjay.mohitesh\source\repos\webApiAssignment\obj\Debug\netcoreapp2.1\webApiAssignment.pdb
